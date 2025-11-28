@@ -1,0 +1,7 @@
+{
+  "name": "Nebula - Omni-Channel AI",
+  "description": "The Omni-Channel AI Social Strategist. Features deep video understanding, trend scouting, and brand-aligned content generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
